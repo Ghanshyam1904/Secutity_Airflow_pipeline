@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+myenv
 
 # Distribution / packaging
 .Python
@@ -75,7 +76,7 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebook
+# Jupyter Notebooks
 .ipynb_checkpoints
 
 # IPython
